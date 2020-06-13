@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+header{
+    background-color: #141414;
+}
+
+.nav ul li {
+    display: inline-block;
+}
+
+li, a {
+    font-family: Roboto, sans-serif;
+    display: inline-block; 
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+    padding-inline-start: 40px;
+
+}
+
+header {
+    display: flex;
+    justify-items: auto;
+    align-items: center;
+    padding: 20px 20%;
+}
