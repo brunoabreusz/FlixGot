@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+h1, h2, h3, p {
+    color: white;
+    font-family: Roboto;
+    padding: 50px;
+
+    margin: 3px;
+    /* margin-left: 70%; */
+}
+
+header {
+    width: 100%;
+
+}
+
+header a {    
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    justify-content: flex-end;
+
+}
+
+.center {
+    background-color: #141414;
+}
+
+.content {
+    text-align-last: center;
+}
