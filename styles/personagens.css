@@ -8,18 +8,33 @@ body {
     background-color: black;
 }
 
+
+
 h1, h2, h3, p {
     color: white;
     font-family: Roboto;
     padding: 50px;
 
     margin: 3px;
-    /* margin-left: 70%; */
+
+}
+
+
+
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.h3 {
+     font-size: x-large; 
+    /* justify-content: space-between; */
 }
 
 header {
     width: 100%;
-
+    color: #141414;
 }
 
 header a {    
@@ -30,3 +45,12 @@ header a {
 
 }
 
+.center {
+    display: flex;
+}
+
+.center img {
+    margin: 10%;
+    border-radius: 58%;
+    align-items: center;
+}
