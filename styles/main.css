@@ -44,17 +44,6 @@ h1, h2, p {
 
 }
 
-.play h3{
-    font-family: Roboto;
-    font-size: x-large;
-    padding: 1%;
-    color: white;
-    margin-left: 6%;
-}
-
-.play img {
-    margin: 10px;
-}
 
 
 
@@ -165,45 +154,7 @@ label[for="bt_menu"]{
 
     }
 
-    .play{
-        margin-top: auto;
-    }
 }
 
 
-/* * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
-body {
-    background-color: black;
-}
-
-header{
-    background-color: #141414;
-}
-
-.nav ul li {
-    display: inline-block;
-}
-
-li, a {
-    font-family: Roboto, sans-serif;
-    display: inline-block; 
-    text-decoration: none;
-    color: white;
-    font-size: 35;
-    padding-inline-start: 50px;
-
-}
-
-header {
-    display: flex;
-    justify-items: auto;
-    align-items: center;
-    padding: 2px 25%;
-    
-}
- */

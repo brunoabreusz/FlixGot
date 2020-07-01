@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: #141414;
 }
 
 
@@ -13,9 +13,9 @@ body {
 h1, h2, h3, p {
     color: white;
     font-family: Roboto;
-    padding: 50px;
+    padding: 25px;
 
-    margin: 3px;
+    margin: 2px;
 
 }
 
@@ -34,7 +34,7 @@ h1, h2, h3, p {
 
 header {
     width: 100%;
-    color: #141414;
+    color:black;
 }
 
 header a {    
@@ -50,7 +50,7 @@ header a {
 }
 
 .center img {
-    margin: 10%;
+    margin: 9%;
     border-radius: 58%;
-    align-items: center;
+
 }

@@ -1,0 +1,55 @@
+
+.play a {
+    text-decoration: none;
+}
+
+.play h3{
+    font-family: Roboto;
+    font-size: x-large;
+    padding: 1%;
+    color: white;
+    margin-left: 5%;
+}
+
+.temporada1 p{
+    padding: 0px;
+
+    margin-left: 13px;
+}
+
+.temporada1 {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+
+
+}
+
+.temporada1 img {
+    margin: 3%;
+    width: 450px;
+
+}
+
+/* .temporada2 p{
+    padding: 0px;
+
+    margin-left: 13px;
+}
+
+.temporada2 {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr ;
+
+}
+
+.temporada2 img {
+    margin: 3%;
+    width: 450px;
+
+} */
+
