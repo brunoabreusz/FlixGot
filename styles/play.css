@@ -3,25 +3,34 @@
     text-decoration: none;
 }
 
-.play h3{
+.sessao1 h3 {
+    color: white;
+    font-family: Roboto;
+    margin-left: 100px;
+}
+
+.play h3 {
     font-family: Roboto;
     font-size: x-large;
-    padding: 1%;
+    padding: 8px;
     color: white;
-    margin-left: 5%;
+    margin-left: 6%;
+    margin-top: 1px;
 }
+
+
 
 .temporada1 p{
     padding: 0px;
 
-    margin-left: 13px;
+    /* margin-left: 13px; */
 }
 
-.temporada1 {
+.temporada1 ul {
 
-    display: grid;
-
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+padding-inline: 22px;
 
 
 
@@ -29,27 +38,34 @@
 
 .temporada1 img {
     margin: 3%;
-    width: 450px;
+    width: 370px;
 
 }
 
-/* .temporada2 p{
+
+
+
+
+
+.temporada2 p{
     padding: 0px;
 
-    margin-left: 13px;
+    /* margin-left: 13px; */
 }
 
-.temporada2 {
+.temporada2 ul {
 
-    display: grid;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+padding-inline: 22px;
 
-    grid-template-columns: 1fr 1fr 1fr ;
+
 
 }
 
 .temporada2 img {
     margin: 3%;
-    width: 450px;
+    width: 370px;
 
-} */
+}
 
