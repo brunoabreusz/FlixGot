@@ -1,5 +1,5 @@
 # Sobre o projeto:
-<h3>Foi uma ideia que tive, juntando um pouco do seriado que eu gosto com a netflix da aí vem o nome 'flixgot', treinei os conceitos de html e de css nesse projeto.</h3><br>
+<h3>Foi uma ideia que tive, juntando um pouco do seriado que eu gosto, com a netflix da aí vem o nome 'flixgot', treinei os conceitos de html e de css nesse projeto.</h3><br>
 # Clonar repositório
 <h3>$ git clone https://github.com/brunoabreusz/flixgot.git</h3>
 
